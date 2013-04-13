@@ -3,6 +3,6 @@
 	"type": "cakephp-plugin",
 	"require": {
 		"composer/installers": "~1.0",
-		"knplabs/gaufrette": "0.1.x"
+		"knplabs/gaufrette": "0.1.*"
 	}
 }
