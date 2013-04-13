@@ -7,10 +7,5 @@
 	"require": {
 		"composer/installers": "~1.0",
 		"knplabs/gaufrette": "0.1.*"
-	},
-	"extra": {
-		"installer-paths": {
-			"Vendor": ["knplabs/gaufrette"]
-		}
 	}
 }
