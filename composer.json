@@ -1,6 +1,9 @@
 {
-	"name": "simkimsia/filestorage",
+	"name": "simkimsia/file_storage",
 	"type": "cakephp-plugin",
+	"config": {
+		"vendor-dir": "Vendor"
+	},
 	"require": {
 		"composer/installers": "~1.0",
 		"knplabs/gaufrette": "0.1.*"
