@@ -1,5 +1,5 @@
 {
-	"name": "simkimsia/filestorage",
+	"name": "simkimsia/file_storage",
 	"type": "cakephp-plugin",
 	"config": {
 		"vendor-dir": "Vendor"
